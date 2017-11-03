@@ -9,7 +9,7 @@ extension Droplet {
         }
 
         get("plaintext") { req in
-            return "Hello, world!"
+            return "Hello, world! phetsouuu"
         }
 
         // response to requests to /info domain
